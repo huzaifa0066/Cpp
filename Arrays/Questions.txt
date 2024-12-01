@@ -1,3 +1,5 @@
 1.Matrix Multiplication
 2 .Matrix Addition
 3.Matrix Transpose
+4.Bubble Sorting
+5.Binary Sorting
