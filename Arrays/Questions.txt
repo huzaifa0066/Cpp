@@ -3,3 +3,4 @@
 3.Matrix Transpose
 4.Bubble Sorting
 5.Binary Sorting
+6.REverse Array
