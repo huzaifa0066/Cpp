@@ -1,6 +1,10 @@
 1.Matrix Multiplication
-2 .Matrix Addition
+2.Matrix Addition
 3.Matrix Transpose
 4.Bubble Sorting
 5.Binary Sorting
 6.Reverse Array
+7.Max and Min num in Array
+8.Array Reverse
+9.Array Sum and product
+10.Number of pass and fail Student
