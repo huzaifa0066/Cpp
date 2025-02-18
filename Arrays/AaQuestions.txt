@@ -1,0 +1,8 @@
+1.Matrix Multiplication
+2.Matrix Addition
+3.Matrix Transpose
+4.Reverse Array
+5.Min Number in Array
+6.Number of pass and fail Student
+7.Weather Application
+8.Days
