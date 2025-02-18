@@ -2,11 +2,10 @@
 2.Matrix Addition
 3.Matrix Transpose
 4.Reverse Array
-5.Min Number in Array
+5.Sorting
 6.Number of pass and fail Student
 7.Weather Application
 8.Days
 9.Smaller Number
 10.Largest Number
 11.Search 
-12.Sorting
