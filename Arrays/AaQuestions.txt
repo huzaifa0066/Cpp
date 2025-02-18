@@ -6,3 +6,5 @@
 6.Number of pass and fail Student
 7.Weather Application
 8.Days
+9.Smaller Number
+10.Largest Number
