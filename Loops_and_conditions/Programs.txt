@@ -1,0 +1,19 @@
+1.All Mathematical Operations
+2.Percentage
+.Pattrens
+*
+* *
+* * *
+* * * *
+* * * * *
+1       2       3       4       5
+6       7       8       9       10
+
+.Program to display following output:
+Number  Square  Cube
+1       1       1
+2       4       8
+3       9       27
+4       16      64
+5       25      125
+
